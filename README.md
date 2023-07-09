@@ -1,4 +1,9 @@
-# Tokenmaster
+# TicketMaster
+
+## Screenshots
+![Screenshot-1](https://github.com/Mudit-Jxin7/TicketMaster-web3/assets/97677133/8172c93e-c495-4e5f-b71a-ab95b7036e29)
+![Screenshot2](https://github.com/Mudit-Jxin7/TicketMaster-web3/assets/97677133/2bc97351-cca4-4c27-bacc-01fdafb9c6fe)
+![Screenshot-3](https://github.com/Mudit-Jxin7/TicketMaster-web3/assets/97677133/ca3613a5-f470-4e92-8cd0-45b98ce2021a)
 
 ## Technology Stack & Tools
 
